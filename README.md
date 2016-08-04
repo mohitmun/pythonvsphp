@@ -3,8 +3,10 @@ PDF merging benchmark for Python and PHP
 - I used `time` command for benchmarking
 - Ubuntu 14.04, 64 bit, Intel® Core™ i5-5200U CPU @ 2.20GHz × 4 , 8GB RAM
 
-    time php mymerger.php
-    time python basic_merging.py
+````
+time php mymerger.php
+time python basic_merging.py
+````
 
 ## Results
 
